@@ -1,4 +1,6 @@
 # 📊 Sales Data Dashboard
+![Screenshot 2025-04-30 151334](https://github.com/user-attachments/assets/301182fe-74b2-470e-b6b1-577776941735)
+
 
 An interactive and responsive dashboard for visualizing and analyzing sales data. This project helps users gain insights into business performance through clean visualizations and dynamic filters.
 
@@ -9,6 +11,8 @@ The objective of this project is to design and develop an interactive Sales Data
 Link = <a href ="https://github.com/Ritesh-yadav-1/Sales-Data-Dashboard/blob/main/RITESH%20ASSIGNMENT.xlsx">DATASET</a>
 ##DASHBOARD
 Link = <a href ="https://github.com/Ritesh-yadav-1/Sales-Data-Dashboard/blob/main/Screenshot%202025-04-30%20151334.png">Dashboard</a>
+
+
 
 ## 🔍 Project Insights
 
